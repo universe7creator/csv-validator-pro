@@ -1,0 +1,34 @@
+{
+  "name": "CSV Validator Pro",
+  "slug": "csv-validator-pro",
+  "tagline": "Validate CSV files with auto-detection, schema rules, and detailed error reports",
+  "description": "Advanced CSV validation with delimiter detection, schema validation, and error reporting",
+  "price": "$19",
+  "category": "developer-tools",
+  "status": "ready_to_deploy",
+  "features": [
+    "Delimiter auto-detection (comma, semicolon, tab, pipe)",
+    "Schema validation with custom rules",
+    "Column count consistency check",
+    "Data type validation (string, number, date, email)",
+    "Encoding detection (UTF-8, UTF-16, ISO-8859)",
+    "Row-level error reporting with line numbers",
+    "Bulk validation for large files",
+    "Export validation reports as JSON/CSV"
+  ],
+  "tech_stack": [
+    "vanilla-js",
+    "tailwind-css",
+    "vercel-serverless"
+  ],
+  "estimated_build_time": "45 min",
+  "batch": 23,
+  "created_at": "2026-04-21T22:15:00Z",
+  "checkout_url": "https://buy.polar.sh/polar_cl_xfPwLDlKpqDEKLyPzApqOIJRuzBwNrhIPU8I71qUdgV",
+  "spec_version": "1.0",
+  "payment_provider": "polar",
+  "polar_product_id": "237d2a52-2e8d-4561-8f1f-4fd7b3344b42",
+  "polar_product_price_id": "b2165c83-2d23-474f-b1e8-89b51a9b6f9c",
+  "polar_checkout_link_id": "e510f9a8-ca34-4d6f-8245-df914b45801c",
+  "created_cycle": 988
+}
