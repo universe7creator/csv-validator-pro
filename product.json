@@ -5,7 +5,8 @@
   "description": "Advanced CSV validation with delimiter detection, schema validation, and error reporting",
   "price": "$19",
   "category": "developer-tools",
-  "status": "ready_to_deploy",
+  "status": "live",
+  "v": "https://csv-validator-pro.vercel.app",
   "features": [
     "Delimiter auto-detection (comma, semicolon, tab, pipe)",
     "Schema validation with custom rules",
